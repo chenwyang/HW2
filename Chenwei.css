@@ -1,0 +1,45 @@
+body { 
+		background-color: #FFFACD ;
+			color: black;
+			font-size: 12pt;
+		}
+h1 {
+		font-size: 20pt;
+		font-weight: bold;
+		text-align: center;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		}
+
+h2 {
+		font-size: 13pt;
+		font-weight: bold;
+		text-align: center;
+		}
+
+h3  {
+		font-size: 12ptpt;
+		font-weight: bold;
+		text-align: center;
+		}
+
+h4   {
+		font-size: 10ptpt;
+		font-weight: normal;
+		text-align: left;
+		}
+
+ul {
+	list-style:square}
+	
+.center {
+	text-align: left
+	}
+	
+.pic {
+		text-align: center;
+		border-style: solid;
+		padding: 15px;
+		margin: 10px;
+	}
+	
